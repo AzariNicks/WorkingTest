@@ -1,0 +1,1 @@
+// okay so this os gonna be were all the stuff is made 

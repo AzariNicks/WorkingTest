@@ -1,0 +1,7 @@
+This is gonna be sorta a guide file for me , so I can refrence it later when I wanna upload another server 
+so were gonna use node.js so were gonna have to install some dependeys so we can get the server up and running 
+and then i wanna add some visuals to the server so we know it looks good 
+
+Step One , add the imports,express,cors,path and then create an port 
+const PORT = process.env.PORT || 3456;
+this is important to keep so that it can be local or not depending on if its uploaded or not 
